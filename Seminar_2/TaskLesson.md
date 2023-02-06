@@ -1,4 +1,4 @@
-## Данные для работы на семинаре: https://disk.yandex.ru/i/OkCrZ8oNGGYzkg
+## Данные для работы на семинаре: [https://disk.yandex.ru/i/OkCrZ8oNGGYzkg](https://disk.yandex.ru/i/rAvnCG19Hff5Vg)
 
 
 
@@ -43,4 +43,5 @@ OR Статус = «холост»
 
 ## Дополнительно, для тех, кто выполнил данные выше: https://disk.yandex.ru/i/xFkAttNoQJbd1g
 
-## Выполнить Full Join для дополнительного задания
+## Выполнить Full Join для таблиц один и три
+## Выполнить Select ФИО, Адрес2, комментарий из общего списка для таблицы два
